@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smart-serv-dashboard/static/css/main.c1eba385.css",
+    "main.js": "/smart-serv-dashboard/static/js/main.2720f747.js",
+    "static/js/787.a776d8a4.chunk.js": "/smart-serv-dashboard/static/js/787.a776d8a4.chunk.js",
+    "static/media/logo.png": "/smart-serv-dashboard/static/media/logo.c63829bc4fa0d4a70636.png",
+    "index.html": "/smart-serv-dashboard/index.html",
+    "main.c1eba385.css.map": "/smart-serv-dashboard/static/css/main.c1eba385.css.map",
+    "main.2720f747.js.map": "/smart-serv-dashboard/static/js/main.2720f747.js.map",
+    "787.a776d8a4.chunk.js.map": "/smart-serv-dashboard/static/js/787.a776d8a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1eba385.css",
+    "static/js/main.2720f747.js"
+  ]
+}
